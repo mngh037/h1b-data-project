@@ -10,9 +10,13 @@ For a long time, US immigration policies have been a source of heated debate. Wh
 H1B by individual records FY 2021-2024 data, sourced from USCIS and obtained by Bloomberg. Col estimate ~20, row estimates ~1,250,000. This would be the main source of data for analysis and visualization. Some questions that can be answered using that data are as follows:
 
 What chances do a typical international entity have of securing a H1B? (BA vs. Master’s)—lottery and approval (classification)
+
 Multiple registrations count vs. single?
+
 Gender profile of petitioners?
+
 How are work locations and employers location related?
+
 Work type sponsorship by region?
 
 2. https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub
