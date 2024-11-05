@@ -18,7 +18,7 @@ Using USCIS-sourced, Bloomberg-obtained filings data at the level of details nev
 
 All the graphs produced for this infographic can be replicated by running the code in `./src/graphs.ipynb` once you get all the data and run `uv sync` in the terminal to install all necessary packages. 
 
-Due to Github's limit on uploads, in additional to the data files that are now in the data/ directory, please find and download 5 .csv files of [USCIS data that was obtained by Bloomberg](https://github.com/BloombergGraphics/2024-h1b-immigration-data).
+Due to Github's limit on uploads, in additional to the data files that are now in the `./data/` directory, please find and download 5 .csv files of [USCIS data that was obtained by Bloomberg](https://github.com/BloombergGraphics/2024-h1b-immigration-data).
 
 These files should be put in the `./data/` directory. For the code to run properly, please rename them as follows:
 
